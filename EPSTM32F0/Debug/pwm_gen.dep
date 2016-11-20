@@ -1,0 +1,15 @@
+Debug/pwm_gen.o: pwm_gen.c system.h \
+ C:\Users\Pavel\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F0xxxx/STM32F0xx_StdPeriph_Driver/inc/stm32f0xx_gpio.h \
+ C:\Users\Pavel\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F0xxxx/CMSIS_StdPeriph/Device/ST/STM32F0xx/Include/stm32f0xx.h \
+ C:\Users\Pavel\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F0xxxx/CMSIS_StdPeriph/Include/core_cm0.h \
+ c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\5.3.0\include\stdint.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\stdint.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_default_types.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\features.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_intsup.h \
+ C:\Users\Pavel\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F0xxxx/CMSIS_StdPeriph/Include/core_cmInstr.h \
+ C:\Users\Pavel\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F0xxxx/CMSIS_StdPeriph/Include/core_cmFunc.h \
+ C:\Users\Pavel\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F0xxxx/CMSIS_StdPeriph/Device/ST/STM32F0xx/Include/system_stm32f0xx.h \
+ C:\Users\Pavel\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F0xxxx/STM32F0xx_StdPeriph_Driver/inc/stm32f0xx_rcc.h \
+ C:\Users\Pavel\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F0xxxx/STM32F0xx_StdPeriph_Driver/inc/stm32f0xx_tim.h \
+ C:\Users\Pavel\AppData\Local\VisualGDB\EmbeddedBSPs\arm-eabi\com.sysprogs.arm.stm32/STM32F0xxxx/STM32F0xx_StdPeriph_Driver/inc/stm32f0xx_misc.h
